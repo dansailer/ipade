@@ -1,6 +1,6 @@
 var interfaceConfig = {
   "ACTIVE_SPEAKER_AVATAR_SIZE": 100,
-  "APP_NAME": "ipade",
+  "APP_NAME": "meetup",
   "BRAND_WATERMARK_LINK": "",
   "CANVAS_EXTRA": 104,
   "CANVAS_RADIUS": 7,
