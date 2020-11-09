@@ -1,7 +1,7 @@
 var interfaceConfig = {
   "ACTIVE_SPEAKER_AVATAR_SIZE": 100,
   "APP_NAME": "meetup",
-  "BRAND_WATERMARK_LINK": "",
+  "BRAND_WATERMARK_LINK": "http://sailer-coaching.ch",
   "CANVAS_EXTRA": 104,
   "CANVAS_RADIUS": 7,
   "DEFAULT_BACKGROUND": "#474747",
@@ -44,10 +44,10 @@ var interfaceConfig = {
     "calendar"
   ],
   "SHADOW_COLOR": "#ffffff",
-  "SHOW_BRAND_WATERMARK": false,
+  "SHOW_BRAND_WATERMARK": true,
   "SHOW_CONTACTLIST_AVATARS": false,
-  "SHOW_JITSI_WATERMARK": false,
-  "SHOW_POWERED_BY": false,
+  "SHOW_JITSI_WATERMARK": true,
+  "SHOW_POWERED_BY": true,
   "TOOLBAR_BUTTONS": [
     "microphone",
     "camera",
